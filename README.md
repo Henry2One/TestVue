@@ -15,3 +15,34 @@ Primero, clona el repositorio en tu máquina local:
 
 ```bash
 git clone https://github.com/tu_usuario/tu_repositorio.git
+```
+
+### 2. Navega en la carpeta BackExpress
+```bash
+cd BackExpress
+```
+
+### 3. Instala dependencias del backend
+```bash
+npm install
+```
+
+### 4. Inicia el backend
+```bash
+npm start
+```
+
+### 5. Navega en la carpeta front-vue
+```bash
+cd ../front-vue
+```
+
+### 6. Instala dependencias del frontend
+```bash
+npm install
+```
+
+### 7. Inicia el frontend
+```bash
+npm run serve
+```
