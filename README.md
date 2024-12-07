@@ -14,7 +14,7 @@ Este proyecto es una aplicación full-stack en la que se utiliza Vue.js para el 
 Primero, clona el repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/Henry2One/TestVue.git
 ```
 
 ### 2. Navega en la carpeta BackExpress
